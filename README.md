@@ -5,15 +5,15 @@
 ### My Experience:
 #### Programing languages
 [![Python](https://img.shields.io/badge/-Python-rgb(55,%20118,%20171)?style=square&logo=Python&logoColor=yellow)](https://www.python.org/)
-[![C Sharp](https://img.shields.io/badge/-C%20Sharp-rgb(35,%20145,%2032)?style=square&logo=c-sharp&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
-[![Dart](https://img.shields.io/badge/-Dart-rgb(1,%20117,%20194)?style=square&logo=dart&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
+[![C Sharp](https://img.shields.io/badge/-C%20Sharp-rgb(35,%20145,%2032)?style=square&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+[![Dart](https://img.shields.io/badge/-Dart-rgb(1,%20117,%20194)?style=square&logo=dart&logoColor=white)](https://dart.dev/)
 #### Tools I work with
-[![Docker](http://img.shields.io/badge/-Docker-0073ec?style=square&logo=Docker&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
-[![Grafana](https://img.shields.io/badge/-Grafana-rgb(244,%20104,%200)?style=square&logo=grafana&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
+[![Docker](http://img.shields.io/badge/-Docker-0073ec?style=square&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![Grafana](https://img.shields.io/badge/-Grafana-rgb(244,%20104,%200)?style=square&logo=grafana&logoColor=white)](https://grafana.com/)
 #### Frameworks
-[![ASP.NET core](http://img.shields.io/badge/-ASP.NET%20core-rgb(92,%2045,%20145)?style=square&logo=.net&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
-[![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
-[![Flask](https://img.shields.io/badge/-Flask-rgb(0,%200,%200)?style=square&logo=flask&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
+[![ASP.NET core](http://img.shields.io/badge/-ASP.NET%20core-rgb(92,%2045,%20145)?style=square&logo=.net&logoColor=white)](https://docs.microsoft.com/pt-br/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1)
+[![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Flask](https://img.shields.io/badge/-Flask-rgb(0,%200,%200)?style=square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/1.1.x/)
 #### Databases
 [![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-rgb(204,%2041,%2039)?style=square&logo=microsoft-sql-server&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
 [![MySQL](https://img.shields.io/badge/-MySQL-rgb(68,%20121,%20161)?style=square&logo=mysql&logoColor=e97b00&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
