@@ -4,7 +4,7 @@
 
 ### My Experience:
 #### Programing languages
-[![Python](https://img.shields.io/badge/-Python-rgb(55,%20118,%20171)?style=square&logo=Python&logoColor=yellow&link=https://github.com/Arkroshex/)](https://github.com/GuiEdington/)
+[![Python](https://img.shields.io/badge/-Python-rgb(55,%20118,%20171)?style=square&logo=Python&logoColor=yellow)](https://www.python.org/)
 [![C Sharp](https://img.shields.io/badge/-C%20Sharp-rgb(35,%20145,%2032)?style=square&logo=c-sharp&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
 [![Dart](https://img.shields.io/badge/-Dart-rgb(1,%20117,%20194)?style=square&logo=dart&logoColor=white&link=https://github.com/GuiEdington/)](https://github.com/GuiEdington/)
 #### Tools I work with
