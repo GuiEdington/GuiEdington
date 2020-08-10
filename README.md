@@ -10,6 +10,8 @@
 #### Tools I work with
 [![Docker](http://img.shields.io/badge/-Docker-0073ec?style=square&logo=Docker&logoColor=white)](https://www.docker.com/)
 [![Grafana](https://img.shields.io/badge/-Grafana-rgb(244,%20104,%200)?style=square&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Git](https://img.shields.io/badge/-Git-rgb(240,%2080,%2050)?style=square&logo=git&logoColor=white)](https://git-scm.com)
+[![Prometheus](https://img.shields.io/badge/-Prometheus-rgb(230,%2082,%2044)?style=square&logo=prometheus&logoColor=white)](https://prometheus.io)
 #### Frameworks
 [![ASP.NET core](http://img.shields.io/badge/-ASP.NET%20core-rgb(92,%2045,%20145)?style=square&logo=.net&logoColor=white)](https://docs.microsoft.com/pt-br/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1)
 [![Flutter](https://img.shields.io/badge/-Flutter-1389fd?style=square&logo=flutter&logoColor=white)](https://flutter.dev/)
