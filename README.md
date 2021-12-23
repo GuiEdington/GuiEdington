@@ -1,6 +1,6 @@
 ### Welcome to my Profile!
 
-  My name is Guilherme Edington and I study Computer Engineering at UFBA. I'm working for a while with Python and Docker and studying JS right now so here at my github you'll gonna find some python projects using docker to run, some repos for JS, HTML and CSS study and some Forks of projects that I liked and wanted to contribute! 
+  My name is Guilherme Edington and I study Computer Engineering at UFBA. I'm working for a while with Flutter, C# and docker. My latest project is an app called [Konsi](https://konsi.com.br). 
 
 ### My Experience:
 #### Programing languages
